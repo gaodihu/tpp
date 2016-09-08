@@ -1,0 +1,10 @@
+{
+    "name": "tpp/tpp",
+    "description": "is public",
+    "require": {},
+	"autoload" : {
+		"psr-4" : {
+			"tpp\\T\\":"src/app"
+		}
+	}
+}
