@@ -5,3 +5,4 @@ class T{
 		echo "t";
 	}
 }
+?>
