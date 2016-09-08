@@ -2,6 +2,7 @@
     "name": "tpp2016/tpp",
     "description": "is public",
     "require": {},
+	"minimum-stability": "dev",
 	"autoload" : {
 		"psr-4" : {
 			"tpp\\T\\":"src/app"
